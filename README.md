@@ -1,5 +1,19 @@
-## Hi there 👋
+<h1 align="center"><b>Hi , I'm jorge zarate </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
+
+
+
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Technologies</h2></summary>
+  </ul>
+</div>
+<!--tech stack icons-->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,cpp,css,docker,postgres,figma,firebase,github,html,java,js,linux,md,mongodb,mysql,nextjs,nodejs,py,react,tailwind,ts,vscode&perline=14" />
+  </a>
+</p>
 <!--
 **jorgezarate15/jorgezarate15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
