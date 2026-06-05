@@ -1,12 +1,15 @@
 <h1 align="center"><b>Hi , I'm jorge zarate </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
+<p align="center">
+   <a>
+    <img align="center" src="banner.png" alt="Banner" " />
+  </a>
 
-<h1 align=center>about me</h1>
+<h2 align=center>about me</h2>
+Actualmente soy estudiante de Desarrollo de Software con enfoque Full Stack. Busco oportunidades para adquirir experiencia práctica y aportar valor en entornos de desarrollo reales.
 
-<div align="center">
- 🎓 desarrollador de software
-💻 full-stack 
-</div>
+
+<h2 align="center"> 🐱‍👤 Sofware Developer | Full stack 🐱‍👓 </h2>
 
 
 <br>
