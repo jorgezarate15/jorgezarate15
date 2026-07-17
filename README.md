@@ -31,7 +31,7 @@ Actualmente soy estudiante de Desarrollo de Software con enfoque Full Stack. Bus
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=spring,angular,ts,java,postgres,git,cpp,css,docker,github,html,js,linux,md,mongodb,mysql,nextjs,nodejs,py,react,tailwind,vscode&perline=14"/>
+    <img src="https://skillicons.dev/icons?i=spring,angular,ts,java,postgres,git,github,docker,css,html,js,react,tailwind,mongodb,mysql,nextjs,nodejs,cpp,py,linux,md,vscode&perline=14"/>
   </a>
 </p>
 <!--
