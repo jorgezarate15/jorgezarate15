@@ -6,7 +6,7 @@
   </a>
 
 <h2 align=center>about me</h2>
-Actualmente soy estudiante de Desarrollo de Software con enfoque Full Stack. Busco oportunidades para adquirir experiencia práctica y aportar valor en entornos de desarrollo reales.
+Actualmente soy estudiante de Desarrollo de Software con enfoque Full Stack. Busco aportar valor en entornos de desarrollo reales.
 
 
 <h2 align="center"> 🐱‍👤 Sofware Developer | Full stack 🐱‍👓 </h2>
